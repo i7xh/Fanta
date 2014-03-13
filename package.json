@@ -1,0 +1,31 @@
+{
+  "name": "Fanta",
+  "description": "big data query parse",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "i7xh",
+      "email": "ixh.xiheng@gmail.com",
+      "web": "https://github.com/i7xh"
+    }
+  ],
+  "dependencies": {
+    "nquery": "~0.1.3"
+  },
+  "bugs": {
+    "web": "https://github.com/i7xh/Fanta"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:i7xh/Fanta.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "GPLv2",
+      "url": ""
+    }
+  ],
+  "homepage": "https://github.com/i7xh/Fanta"
+}
